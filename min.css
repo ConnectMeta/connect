@@ -20,3 +20,7 @@ body, html {
 .span {
   background: white;
 }
+
+#cloud {
+  object-position: right;
+}

@@ -20,14 +20,6 @@ resulting is possible mental health problems. This is why we have developed a pl
 <link rel="stylesheet" href="min.css">
 
 <body>
-<div class="popup">
-  <button id="close">&times;</button>
-  <h2>Market Evaluation Form</h2>
-  <p>
-      Help us understand the market & delever you a better experience by filling out a short survay below.
-  </p>
-  <a href="/form">Let's Go</a>
-</div>
 <!-- Navbar (sit on top) -->
 <div class="w3-top">
   <div class="w3-bar w3-white w3-card" id="myNavbar">
@@ -229,20 +221,7 @@ function w3_open() {
 function w3_close() {
     mySidebar.style.display = "none";
 }
-  
-window.addEventListener("load", function(){
-    setTimeout(
-        function open(event){
-            document.querySelector(".popup").style.display = "block";
-        },
-        2000 
-    )
-});
 
-
-document.querySelector("#close").addEventListener("click", function(){
-    document.querySelector(".popup").style.display = "none";
-});
   
 </script>
 

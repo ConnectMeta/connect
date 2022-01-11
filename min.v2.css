@@ -25,4 +25,22 @@ body, html {
   object-position: right;
 }
 
+#ad {
+  height:80px;
+}
+@media only screen and (height:90px) {
+  /* 90 pixels high */
+  #ad {
+     height:90px;
+  }
+}
+@media only screen and (height:125px) {
+  /* 125 pixels high */
+  #ad {
+     height:125px;
+  }
+}
 
+.ad-placment {
+  text-align: center;
+}

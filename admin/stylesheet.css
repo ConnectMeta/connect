@@ -16,6 +16,8 @@
     background-color: #050A30;
   }
   
+  a { color: inherit; } 
+
   .items {
     width: 300px;
     background: #fffffe;

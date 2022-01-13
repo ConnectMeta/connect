@@ -1,4 +1,4 @@
 ﻿# Connect: Imagine This
 
 
-![Logo](https://connectapp.gq/resources/connect.png)
+![Logo](https://connectapp.gq/resources/logo.png)

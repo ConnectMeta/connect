@@ -13,20 +13,20 @@
     margin: auto;
     display: grid;
     place-items: center;
-    background-color: #128cfc;
+    background-color: #050A30;
   }
   
   .items {
     width: 300px;
     background: #fffffe;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-    border-top: 10px solid #0b5aa2;
+    border-top: 10px solid #072e53;
   }
   
   .items-head p {
     padding: 5px 20px;
     margin: 10px;
-    color: #0b5aa2;
+    color: #072e53;
     font-weight: bold;
     font-size: 20px;
   }
@@ -34,7 +34,7 @@
   .items-head hr {
     width: 20%;
     margin: 0px 30px;
-    border: 1px solid #0b5aa2;
+    border: 1px solid #072e53;
   }
   
   .items-body {
@@ -57,13 +57,13 @@
   
   .items-body-content:hover {
     border-radius: 15px;
-    border: 1px solid #0b5aa2;
+    border: 1px solid #072e53;
   }
   
   .items-body-content i {
     align-self: center;
     font-size: 15px;
-    color: #0b5aa2;
+    color: #072e53;
     font-weight: bold;
     animation: icon 1.5s infinite forwards;
   }

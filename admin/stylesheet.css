@@ -45,7 +45,7 @@
   .items-head hr {
     width: 20%;
     margin: 0px 30px;
-    border: 1px solid #072e53;
+    border: 1px solid #050A30;
   }
   
   .items-body {
@@ -68,13 +68,13 @@
   
   .items-body-content:hover {
     border-radius: 15px;
-    border: 1px solid #072e53;
+    border: 1px solid #050A30;
   }
   
   .items-body-content i {
     align-self: center;
     font-size: 15px;
-    color: #072e53;
+    color: #050A30;
     font-weight: bold;
     animation: icon 1.5s infinite forwards;
   }
